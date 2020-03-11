@@ -10,6 +10,7 @@
 \RequirePackage{xcolor}
 \RequirePackage{epstopdf}
 \RequirePackage{subcaption}
+\RequirePackage{float}%强制图片
 \linespread{1.2}
 \geometry{top=1in,bottom=1in,left=1in,right=1in}
 \setcounter{secnumdepth}{2}
